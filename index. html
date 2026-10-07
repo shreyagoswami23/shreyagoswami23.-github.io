@@ -1,0 +1,23 @@
+
+
+        <div class="project">
+            <h3>Personal Portfolio</h3>
+            <p>
+                My personal portfolio website created using HTML and CSS.
+            </p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+
+        <p>Email: your-email@example.com</p>
+        <p>GitHub: shreyagoswami23</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Shreya Goswami | My Portfolio</p>
+    </footer>
+
+</body>
+</html>
